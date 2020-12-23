@@ -1,0 +1,5 @@
+package com.gustadev.api.resource;
+
+public class ProdutoResource {
+
+}

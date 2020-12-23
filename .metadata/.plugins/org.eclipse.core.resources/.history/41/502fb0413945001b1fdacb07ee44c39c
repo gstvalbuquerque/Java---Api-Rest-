@@ -1,0 +1,5 @@
+package com.gustadev.api.repository;
+
+public interface ProdutoRepository {
+
+}

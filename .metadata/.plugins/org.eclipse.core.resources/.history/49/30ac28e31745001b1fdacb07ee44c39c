@@ -1,0 +1,5 @@
+package com.gustadev.api.models;
+
+public class Produto {
+
+}
